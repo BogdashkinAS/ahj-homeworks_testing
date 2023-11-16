@@ -1,6 +1,6 @@
 # Webpack5
 
-При запуске тестирования использовать команду: npm run test:ci !!!
+При запуске тестирования используется команда: npm run test:ci !!!
 
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
